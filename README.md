@@ -1,4 +1,4 @@
-# 7daysofcode-alura
+# 7daysofcode - Alura
 
 ![7days](https://user-images.githubusercontent.com/104053775/192940056-b73781d3-4d25-45e6-9e9c-8dcc0d3c1bb0.jpg)
 
