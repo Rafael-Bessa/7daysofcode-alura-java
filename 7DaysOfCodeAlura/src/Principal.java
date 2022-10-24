@@ -12,7 +12,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		ImdbApiClient client = new ImdbApiClient("https://imdb-api.com/en/API/Top250Movies/k_g6yat091");
+// A chave da api, cada um consegue a sua fazendo cadastro no site, ocultei a minha por medidas de segurança.		
+		ImdbApiClient client = new ImdbApiClient("https://imdb-api.com/en/API/Top250Movies/CHAVE_DA_SUA_API_AQUI");
 		
 		String json;
 
